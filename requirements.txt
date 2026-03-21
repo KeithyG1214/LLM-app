@@ -5,7 +5,6 @@ tiktoken
 langchain==0.1.20
 langchain-community==0.0.38
 langchain-core==0.1.52
-langchain-text-splitters==0.0.1
 
 langchain-chroma
 langchain-groq
