@@ -1,5 +1,5 @@
-streamlitgit add,
-python-dotenv
+streamlit
+fpdf
 tiktoken
 langchain==0.1.20
 langchain-community==0.0.38
@@ -8,3 +8,4 @@ langchain-chroma
 langchain-groq
 chromadb
 protobuf
+sentence-transformers
